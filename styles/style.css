@@ -170,8 +170,8 @@ ol {
 }
 
 .content__accent-dash {
-  position: absolute;
-  top: 10px;
+  position: inherit;
+  top: -10px;
 }
 .content__list {
   position: relative;
